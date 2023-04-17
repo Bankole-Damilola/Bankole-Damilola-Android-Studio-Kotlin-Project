@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">RPN calculator</string>
+
+    <!-- First Table Row   -->
+    <string name="sqrt">√</string>
+    <string name="factorial">x!</string>
+    <string name="add_sub">+/-</string>
+    <string name="simple_interest">I amt</string>
+
+    <!--    Second Table Row-->
+    <string name="ac">AC</string>
+    <string name="c">C</string>
+    <string name="backspace">B</string>
+    <string name="max">MAX</string>
+
+    <!--    Third Table Row-->
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="division">÷</string>
+
+    <!--    Fourth Table Row-->
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="multiply">×</string>
+
+    <!--    Fifth Table Row-->
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="subtraction">−</string>
+
+    <!--    Sixth Table Row-->
+    <string name="min">MIN</string>
+    <string name="zero">0</string>
+    <string name="enter">ENTER</string>
+    <string name="addition">+</string>
+
+</resources>
